@@ -1,0 +1,7 @@
+This product uses Emscripten, SDL2, SDL2_image, SDL2_ttf and supporting libraries; license texts are provided here.
+
+Portions of this software are copyright © The FreeType Project (www.freetype.org). All rights reserved.
+
+This software is based in part on the work of the Independent JPEG Group.
+
+Noto Sans KR: see ../OFL-noto-sans-kr.txt.

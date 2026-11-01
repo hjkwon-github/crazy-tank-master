@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "source_data_sha256": "1663ffe1049c41b46a05a097ebf4b752ab6baaae4904f6afb5b003ebe472528c",
+  "public_data_sha256": "ebd0a985f58a41aa4f298db577359973dd5fdd90bcdf726d00d6dbe9c8bc92d1",
+  "excluded_asset": "web/assets/art/provenance.json",
+  "preserved_asset_count": 130,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "OFL-noto-sans-kr.txt",
+      "bytes": 4388,
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 602,
+      "sha256": "289a28bb0ec23a70d4f87db419c7a22d3771350887fbe00cc31d7141bae14250"
+    },
+    {
+      "path": "index.data.part000",
+      "bytes": 41943040,
+      "sha256": "4ad69ebc32e4301395ba26c5c1b31916cec80b5467b1bc27f71e3296884830e0"
+    },
+    {
+      "path": "index.data.part001",
+      "bytes": 41943040,
+      "sha256": "e0b3d29820d4b9dc260181c90c4dd48646551c99088c7d216040c6322d82338a"
+    },
+    {
+      "path": "index.data.part002",
+      "bytes": 37737373,
+      "sha256": "a0be26583f36247ecb741f643c4ffec139b78cc21d2f662070ed1cdce44d495f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8219,
+      "sha256": "05bdd354aa9d1401466eda94337d0d1d79b1e740c9ac843b5399e2f899d310bf"
+    },
+    {
+      "path": "index.js",
+      "bytes": 225396,
+      "sha256": "47262c01de641807f52629ba6b11c6fa690c7399f1c697faddea86d8bb3b3777"
+    },
+    {
+      "path": "index.wasm",
+      "bytes": 2717826,
+      "sha256": "9a164985d1d6f01f724daaffcdf662fb5ccd5c98ac3bc8caf648a3b24c78d87f"
+    },
+    {
+      "path": "pages-loader.js",
+      "bytes": 2559,
+      "sha256": "91bca53ebb26b0a62013a643b37a6f7ef9f150cd4206543d4f5af96a3be9ae7e"
+    },
+    {
+      "path": "third-party-licenses/NOTICE.txt",
+      "bytes": 341,
+      "sha256": "36ad50ab0af24673a995e4ff83b2e342fa9edff0b83936065488f056c50a253e"
+    },
+    {
+      "path": "third-party-licenses/emscripten.txt",
+      "bytes": 5093,
+      "sha256": "620a78084fc7ca97c0b5dea9abf891f3ffcadfdbf305276f099c9c4e12fc1d86"
+    },
+    {
+      "path": "third-party-licenses/freetype-ftl.txt",
+      "bytes": 6743,
+      "sha256": "5a5ee54c5001bbad1cdc1a57cc3dd4c42199b2da09d39c7ee41fab002d02967f"
+    },
+    {
+      "path": "third-party-licenses/freetype-license.txt",
+      "bytes": 2149,
+      "sha256": "bd36c8b474855fa294c2ec5c184544478ef3720aad37d65a6296a4f264fd2d3b"
+    },
+    {
+      "path": "third-party-licenses/harfbuzz.txt",
+      "bytes": 1829,
+      "sha256": "4345e1735f8bc6d812fed5180cabb5a5e88a4109d332652f2a45c13cfa5ee692"
+    },
+    {
+      "path": "third-party-licenses/libjpeg-readme.txt",
+      "bytes": 18719,
+      "sha256": "7c25493a9f64fed34d01445467341bda77bc1cdbeccbe33558659ef173fb9ff2"
+    },
+    {
+      "path": "third-party-licenses/libpng.txt",
+      "bytes": 5345,
+      "sha256": "bdb0a645ea18c60507d0368379b1ac5474b92255fcc2d115e07486a7672ba526"
+    },
+    {
+      "path": "third-party-licenses/sdl2-image.txt",
+      "bytes": 878,
+      "sha256": "28aabfed22b3cb0b7e23ef40385e4f66297c960082f029c96d073cc1d4e008d5"
+    },
+    {
+      "path": "third-party-licenses/sdl2-ttf.txt",
+      "bytes": 878,
+      "sha256": "1852c8549e3d154687197d46abababd3e8faae035f19991b2ca850fa3a43ad57"
+    },
+    {
+      "path": "third-party-licenses/sdl2.txt",
+      "bytes": 884,
+      "sha256": "97f35b302b361680ec1e891e95d2d52097bb95abff361434916d99dc1305f127"
+    },
+    {
+      "path": "third-party-licenses/zlib.txt",
+      "bytes": 1002,
+      "sha256": "e32ff4e00d9d94930537635291da39e7e612703334bf6fde8c7f1686fe8a45a2"
+    }
+  ],
+  "note": "Local package only; gameplay, publication rights and opaque data content not certified."
+}
