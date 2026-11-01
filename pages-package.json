@@ -1,9 +1,10 @@
 {
   "format": 1,
   "source_data_sha256": "1663ffe1049c41b46a05a097ebf4b752ab6baaae4904f6afb5b003ebe472528c",
-  "public_data_sha256": "ebd0a985f58a41aa4f298db577359973dd5fdd90bcdf726d00d6dbe9c8bc92d1",
+  "public_data_sha256": "f3335e47f89066a9797e203214ae13affca7f3db5ead0b5107c207d66e5464c4",
   "excluded_asset": "web/assets/art/provenance.json",
   "preserved_asset_count": 130,
+  "replaced_asset_count": 37,
   "files": [
     {
       "path": ".nojekyll",
@@ -22,18 +23,18 @@
     },
     {
       "path": "index.data.part000",
-      "bytes": 41943040,
-      "sha256": "4ad69ebc32e4301395ba26c5c1b31916cec80b5467b1bc27f71e3296884830e0"
+      "bytes": 25165824,
+      "sha256": "af82d6526619c62219fd36aa142fcea12f843b7cfe19cb5f46d3776eb52c3e6d"
     },
     {
       "path": "index.data.part001",
-      "bytes": 41943040,
-      "sha256": "e0b3d29820d4b9dc260181c90c4dd48646551c99088c7d216040c6322d82338a"
+      "bytes": 25165824,
+      "sha256": "e448f59e44dc6a7098918bb3b40947353cba9892514ea80f676a3b20bb8e6df1"
     },
     {
       "path": "index.data.part002",
-      "bytes": 37737373,
-      "sha256": "a0be26583f36247ecb741f643c4ffec139b78cc21d2f662070ed1cdce44d495f"
+      "bytes": 18234219,
+      "sha256": "c79394eeffa7e5c0dc1ff3b27e8179611b3ee694a2ece00e651d7de0fff6327e"
     },
     {
       "path": "index.html",
@@ -42,8 +43,8 @@
     },
     {
       "path": "index.js",
-      "bytes": 225396,
-      "sha256": "47262c01de641807f52629ba6b11c6fa690c7399f1c697faddea86d8bb3b3777"
+      "bytes": 225268,
+      "sha256": "3d689d2f5e3afb73bccf2e939d728183b823696530af8924479c9f8c0e36193b"
     },
     {
       "path": "index.wasm",
@@ -52,8 +53,8 @@
     },
     {
       "path": "pages-loader.js",
-      "bytes": 2559,
-      "sha256": "91bca53ebb26b0a62013a643b37a6f7ef9f150cd4206543d4f5af96a3be9ae7e"
+      "bytes": 2558,
+      "sha256": "ec884caf26ff3af2bccc9afa72d0cedc643634eecd09cbf44fd037cdb2a2cfe9"
     },
     {
       "path": "third-party-licenses/NOTICE.txt",

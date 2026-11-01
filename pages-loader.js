@@ -1,7 +1,7 @@
 /* Reassembles an Emscripten package before starting its JS runtime. */
 (() => {
   'use strict';
-  const config = {"parts":[{"name":"index.data.part000","size":41943040,"sha256":"4ad69ebc32e4301395ba26c5c1b31916cec80b5467b1bc27f71e3296884830e0"},{"name":"index.data.part001","size":41943040,"sha256":"e0b3d29820d4b9dc260181c90c4dd48646551c99088c7d216040c6322d82338a"},{"name":"index.data.part002","size":37737373,"sha256":"a0be26583f36247ecb741f643c4ffec139b78cc21d2f662070ed1cdce44d495f"}],"size":121623453,"sha256":"ebd0a985f58a41aa4f298db577359973dd5fdd90bcdf726d00d6dbe9c8bc92d1"};
+  const config = {"parts":[{"name":"index.data.part000","size":25165824,"sha256":"af82d6526619c62219fd36aa142fcea12f843b7cfe19cb5f46d3776eb52c3e6d"},{"name":"index.data.part001","size":25165824,"sha256":"e448f59e44dc6a7098918bb3b40947353cba9892514ea80f676a3b20bb8e6df1"},{"name":"index.data.part002","size":18234219,"sha256":"c79394eeffa7e5c0dc1ff3b27e8179611b3ee694a2ece00e651d7de0fff6327e"}],"size":68565867,"sha256":"f3335e47f89066a9797e203214ae13affca7f3db5ead0b5107c207d66e5464c4"};
   const base = new URL('.', document.currentScript.src);
   const status = document.getElementById('status');
   const hex = bytes => Array.from(new Uint8Array(bytes), x => x.toString(16).padStart(2, '0')).join('');
